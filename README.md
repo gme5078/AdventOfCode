@@ -16,3 +16,6 @@ Converts to pandas dataframe. Could technically do validation as it turns into
 a pandas dataframe, but didn't seem necessary. I got the proper answer, but
 I am aware that there should be MORE validation checks within each validation
 function.
+
+## Day 5
+Shabooyah.
